@@ -2,8 +2,8 @@
 - 👀 I’m interested in developing across various domains, exploring the intersections of technology and creativity.
 - 🌱 I’m currently learning new programming languages, frameworks, and tools to expand my skill set.
 - 💞️ I’m looking to collaborate on innovative projects that push boundaries and make a positive impact.
-- 📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at [your_email@example.com].
-- 😄 Pronouns: [Your pronouns]
+- 📫 How to reach me: Feel free to connect with me on GitHub or reach out via email at gusferreira1212@gmail.com.
+- 😄 Pronouns: Axel, Kitsu
 - ⚡ Fun fact: I'm passionate about exploring different cultures through cuisine and travel, and I love experimenting with new recipes in my free time!
 
 <!---
